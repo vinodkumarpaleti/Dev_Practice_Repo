@@ -1,1 +1,2 @@
-####This is sample Text file for git practice ####
+####This is sample Text file for git practice ###
+New changes added in Index file#######
